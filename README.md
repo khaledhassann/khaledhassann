@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring flutter developer looking to get into the amazing field of app development.<br>I'm also interested in other technologies like Cloud, AI, ML, and the field of cybersecurity.
+I'm a Flutter developer looking for exciting projects and job opportunities with companies that want to take their online presence to another level by making beautiful, smooth, but also efficient mobile applications so they can reach their users wherever they are.<br>I'm also interested in other technologies like Cloud, AI, ML, and the field of cybersecurity.
 
 
 ## 🌐 Socials:
