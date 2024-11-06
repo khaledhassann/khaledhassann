@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Flutter developer looking for exciting projects and job opportunities with companies that want to take their online presence to another level by making beautiful, smooth, but also efficient mobile applications so they can reach their users wherever they are.<br>I'm also interested in other technologies like Cloud, AI, ML, and the field of cybersecurity.
+👋 Hi there! I'm a Data Scientist with a strong background in Machine Learning, Artificial Intelligence, and Data Analysis. With 2 years of prior experience in Flutter app development, I bring a diverse technical skill set to the table, allowing me to create insightful, data-driven solutions as well as polished, user-friendly applications.
+
+I'm passionate about leveraging data and AI to drive innovation and am always on the lookout for exciting projects and collaborations. Let's build something impactful together!
+
+<br>I'm also interested in other technologies like Cloud, AI, ML, and the field of cybersecurity.
 
 
 ## 🌐 Socials:
